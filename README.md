@@ -23,4 +23,4 @@ DOWNLOADS
 =========
 
 For Minecraft 1.6:
-	http://bit.ly/I969pj
+	http://zerolevels.github.io/LAST_DAYS/1.6/
