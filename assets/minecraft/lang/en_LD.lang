@@ -1346,4 +1346,4 @@ mco.gameMode.creative.line1=Unlimited resources, free flying and
 mco.gameMode.creative.line2=destroy blocks instantly
 mco.gameMode.adventure=Adventure
 mco.gameMode.adventure.line1=Same as survival mode, but blocks can't
-mco.gameMode.adventure.line2=be added or removed
+mco.gameMode.adventure.line2=be placed or broken
