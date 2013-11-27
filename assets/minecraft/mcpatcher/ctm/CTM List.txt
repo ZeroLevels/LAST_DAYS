@@ -1,0 +1,22 @@
+This list tells you what blocks are in each directory.  Each block's folder prefixed with Block ID.
+
+ComplycatEdsctm\
+	0001 - Stone
+	0002 - Grass
+	0004 - Cobblestone
+	0005 - Wood Planks
+	0012 - Sand
+	0024 - Sandstone
+	0103 - Melon
+	0133 - Emerald
+	0155 - Quartz Block
+	0159 - Stained Clay
+
+LDctm\
+	0020 - Glass
+	0042 - Iron Block
+	0044 - Stone Slab
+	0047 - Bookshelf
+
+ZeroLevelsCTM\
+	0095 - Stained Glass
