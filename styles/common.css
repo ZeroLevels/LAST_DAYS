@@ -56,9 +56,9 @@ a {
 
 
 /*	Text Formatting	*/
-strong {
+strong,b {
 	color:#eee;
-} strong a {
+} strong a,b a {
 	color:#bbd;
 }
 
