@@ -1,9 +1,10 @@
 /*	Page Content	*/
 html,body {
+	margin:0;
 	background-color:#000;
 	color: #bbb;
 	font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-	font-size: 16px;
+	font-size: 1em;
 	line-height: 1.5em;
 }
 
@@ -27,6 +28,16 @@ h1,h2,h3,h4,h5,h6 {
 	padding-bottom: 5px;
 } h3 {
 	font-size:1.5em;
+} h3#foot {
+	font-family: monospace;
+	font-size:1.5em;
+	position: absolute;
+	bottom: 0px;
+	right: 5px;
+} h3#foot:hover:before {
+	color: gray;
+	font-size: 1em;
+	content:"Feel free to help maintain the pack! - ";
 } h4 {
 	font-size:1.2em;
 } h5 {
@@ -52,6 +63,19 @@ a {
 	outline: thin dotted;
 } a:hover, a:active {
 	outline: 0;
+} #foot a {
+	border: 1px solid #55f;
+	border-radius:10px;
+	padding: 5px;
+} #foot a:before {
+	content: "Hosted on Github";
+} #foot a:active {
+	border: 1px solid #faa700;
+} #foot a:hover {
+	border: 1px solid #88f;
+	background: #111;
+} #foot a:hover:before {
+	content: "Visit the Github";
 }
 
 
@@ -68,4 +92,17 @@ li.warning {
 	color:#5f5;
 } li.warning a:hover {
 	color:#7f7;
+}
+
+@media screen and (max-width: 734px){
+	h3#foot:hover:before {
+		font-size: .75em;
+		content:"Feel free to help maintain the pack! - ";
+	}
+}
+
+@media screen and (max-width: 510px){
+	h3#foot:hover:before {
+		content:"";
+	}
 }
