@@ -12,6 +12,10 @@ p {
 	margin:1em 0;
 }
 
+div#head {
+	text-align: right;
+}
+
 
 /*	Headers	*/
 h1,h2,h3,h4,h5,h6 {
@@ -28,16 +32,6 @@ h1,h2,h3,h4,h5,h6 {
 	padding-bottom: 5px;
 } h3 {
 	font-size:1.5em;
-} h3#foot {
-	font-family: monospace;
-	font-size:1.5em;
-	position: absolute;
-	bottom: 0px;
-	right: 5px;
-} h3#foot:hover:before {
-	color: gray;
-	font-size: 1em;
-	content:"Feel free to help maintain the pack! - ";
 } h4 {
 	font-size:1.2em;
 } h5 {
@@ -63,29 +57,25 @@ a {
 	outline: thin dotted;
 } a:hover, a:active {
 	outline: 0;
-} #foot a {
+} .head a {
+	line-height:2em;
+	margin-top:10px;
 	border: 1px solid #55f;
 	border-radius:10px;
 	padding: 5px;
-} #foot a:before {
+} .head a:before {
 	content: "Hosted on Github";
-} #foot a:active {
+} .head a:active {
 	border: 1px solid #faa700;
-} #foot a:hover {
+} .head a:hover {
 	border: 1px solid #88f;
 	background: #111;
-} #foot a:hover:before {
+} .head a:hover:before {
 	content: "Visit the Github";
 }
 
 
 /*	Text Formatting	*/
-strong,b {
-	color:#eee;
-} strong a,b a {
-	color:#bbd;
-}
-
 li.warning {
 	color:#9f9;
 } li.warning a {
@@ -94,15 +84,31 @@ li.warning {
 	color:#7f7;
 }
 
+span.head {
+	margin-top:5px;
+	font-family: monospace;
+	font-size:1.5em;
+} span.head:hover:before {
+	color: gray;
+	font-size: 1em;
+	content:"Feel free to help maintain the pack! - ";
+}
+
+strong,b {
+	color:#eee;
+} strong a,b a {
+	color:#bbd;
+}
+
 @media screen and (max-width: 734px){
-	h3#foot:hover:before {
+	span.head:hover:before {
 		font-size: .75em;
 		content:"Feel free to help maintain the pack! - ";
 	}
 }
 
 @media screen and (max-width: 510px){
-	h3#foot:hover:before {
+	span.head:hover:before {
 		content:"";
 	}
 }
