@@ -13,10 +13,12 @@ ComplycatEdsctm\
 	0159 - Stained Clay
 
 LDctm\
+        0118 - Cauldron
 	0020 - Glass
 	0042 - Iron Block
 	0044 - Stone Slab
 	0047 - Bookshelf
+        0084 - Jukebox
 
 ZeroLevelsCTM\
 	0095 - Stained Glass
