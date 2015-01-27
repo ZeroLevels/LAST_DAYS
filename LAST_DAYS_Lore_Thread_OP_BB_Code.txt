@@ -1,0 +1,708 @@
+[center].[/center]
+
+[center][size=32px][b][u]Welcome to the Last Days [/u][/b][/size][/center]
+
+[center][size=32px][b][u]lore thread[/u][/b][/size][/center]
+
+
+
+[size=18.06px][u]About:[/u][/size]
+This thread holds the lore of the post-apocalyptic, atom-punk and totally awesome “Last Days” revival texture pack, which can be found here:
+
+
+
+
+
+[center][url=http://www.minecraftforum.net/topic/1059319-32x-125-last-days-55000-downloadsv6updated/][img]http://img847.imageshack.us/img847/8859/lastdayslogo1.jpg[/img][/url][/center]
+[center][url=http://www.minecraftforum.net/topic/1059319-32x-hd-131-v3-last-days-105143-downloads100k-milestone/][color=rgb(218, 165, 32)][b]Check it out! Bring the kids! Embrace the Huggatron![/b][/color][/url][/center]
+
+Since the pack has undergone a series of “deaths” and “resurrections” its custom lore got retold faulty, rewritten, changed and partially lost. Therefore this thread aims to offer a summed up, consistent lore, based on the few informations we have. However the lore will also be retconned and expanded to mirror recent changes to the texture pack.
+Some parts of the lore were taken directly (with minor modifications) from the previous threads, credit goes to the respective writers.
+Since people working on Last Days have a tendency to vanish inexplicably, it’s probably for the best if you copy/paste the lore into a document, in case the OP chokes to death on a pea and the thread gets deleted by a fragment of the moon crashing into Curse’s server hall.
+
+
+[u][size=18.06px]Rules&Tips:[/size][/u]
+1. THIS IS NOT FALLOUT!!!
+[img]http://www.threadbombing.com/data/media/2/Sparta.gif[/img]
+
+2. Please note, this is NOT A FAN FICTION THREAD, just an archive of already existing stuff. Contributions of lost lore are welcome (with source). Please post lore/texture suggestions in the [url=http://www.minecraftforum.net/topic/1059319-32x-125-last-days-55000-downloadsv6updated/]main thread[/url], where people see them.
+
+3. Point out spelling/grammar errors if you're bored.
+
+4. Use Ctrl+F to use the search function of your browser.
+
+
+ 
+[center][size=32px][u][b]General lore & setting[/b][/u][/size][/center]
+
+
+The following lore uses its own time system. The years in the post-apocalyptic “Last Days” universe are measured “before the Event” (BE) and “after the Event” (“AE”) whereat “The Event” referes to the destruction of the moon.
+
+The orignal setting BE was that of a future, as it had been predicted in the american 50’s. Atom powered machines and robots anywhere, happy children listening to some swell tunes from the radio, while mother cooks and father waxes his hair with glue. It’s not unlike to the setting of a certain computer game that is similar but [u]not related[/u].
+
+[center][spoiler][u][size=18.06px][b]The Mysterious Mr. History and Orbital Industries[/b][/size][/u] 
+The year was 24 BE, a young inventor calling himself "Mr. History" was elbows deep in the creation of the worlds first artificial intelligence. He called it The Huggatron and fancied it mans best friend since the dog. The Huggatron was primarily designed for human companionship. It came complete with full mobility, a voice and emotion emulation system, and the means of completing simple tasks at its possessors will.
+When The Huggatron was nearly complete Mr. History sought council with a series of wealthy and powerful men.
+"Gentlemen," said Mr.History," I present to you, a machine unlike any you have ever seen outside of the cinema. Naturally, I would not have asked to speak with you if I had not something magnificent in my possession. With me, I have a device that will change the world as we know it. This is a device that will touch the minds and the hearts of people the world round. This device will define our voyage in to the future. I present to you, the worlds first Automated Man, The Huggatron!"
+Naturally the men were eager to invest, Mr.History quickly gathered a fortune which he placed into founding Orbital Industries in 17 BE. Three years later in 14BE he released The Huggatron. As expected, It took the world by storm. The Huggatron sold by the millions at a less than economical price. Within six months Mr.History was able to pay off all of the investments plus interest and protect Orbital Industries autonomy for good.
+
+[img]http://img211.imageshack.us/img211/6448/hugga.png[/img]
+
+Six years, 2 Editions of The Huggatron, and billions in revenue later, Orbital Industries announced that in three months it would embark upon a voyage to the moon. Many could not believe that such a thing was possible, yet, they had not believed in robots either.
+On October 30th, 8 BE Orbital Industries landed on the moon. The whole world watched as a half dozen men planted the Orbital Industries banner at the Landing.
+After the footage of the landing was played for the world Mr.History went on a press trip and met with the leaders of all of the worlds super powers. He announced privately to each of the world leaders that he was, among other things, establishing a weapons testing facility beneath the moons surface. Access to the facilities would be public, however it would be at considerable cost. He told each of the leaders that many of the others had already paid in advance for early access to the facilities and they would be left behind if they did not get on board.
+As expected, almost every country forked out the money to use the facilities before they were even opened. Using the money invested by the governments Orbital Industries was able to open its testing center in 8 BE.
+
+-Anonymous, attributed to "History", Orbital Industries CEO
+
+ 
+[u][size=18.06px][b]“Golden” age and “The Event”[/b][/size][/u] 
+The next years saw a multiplication in Orbital’s incomes until it exceeded the gross domestic product of any country. This was achieved by the sale of weapons to earths superpowers, the continued development of increasingly sophisticated military and civilian robots and the increasingly important field of waste disposal (ironically O.I. was responsible for most of the waste).
+Last but not least, Orbital Industries created complexes of underground “Cocoon” shelters, concrete and metal reinforced bunkers, that were clustered together in “H.I.V.E.s” . Afraid of the new weapons the superpoweres had aquired, people payed a fortune to reserve spots in the cocoons.
+While things on earth were looking grim enough, strip mining of Helium-3 and nuclear weapon tests became commonplace on the moon, turning it into a hollow irradiated dump, often referred to as “The Belly”.
+Although nearly all governments in the world started to view Orbital Industries as a threat, Mr.History’s safety was ensured by his wealth and superior technology, so they were forced to grin and bear it.
+
+During this time of barley concealed tension “The Event” took place, and until today it remains a mystery wrapped in riddles, what actually happened.
+It is known that the mysterious disappearance of Mr.History’s chief of development, Dr Hypophysos H. Crocopolous, seriously crippled Orbital Industries development capability in 1 BE.
+A popular theory suggested that this indirectly led to “The Event”, supposedly caused by a poorly conducted and rushed portal experiment to establish a direct connection between earth and the Belly.
+While the exact happenings on the moon on August 6th 0 AE remain unknown, the resulting chain reaction of exploding nuclear weapons and helium-3 deposits spoke for itself.
+ [img]http://i.cubeupload.com/hkcUwI.png[/img] 
+Large chunks of the moon were blasted away, raining down on earth, hitting cities, causing floodwaves and starting large forest fires.
+While Orbital desperatley tried to contain the damage and avert a PR disaster, the world’s superpowers, in a unique display of unity, took control over O.I. facilities world wide. On February 2nd 1 AE, Orbital was officially disbanded and diveded between multiple governments.
+However the damage had already been done. The pollution of the environment resulted in famines and freak thunderstorms all around the world. Contact to the moon and it’s resources had been lost during “the Event”, and a general paranoia towards science and technology took hold of earths population. Mere weeks after O.I.’s end, riots errupted in multiple countries, spreading and evolving into wars about resources and food .
+The alliance of convenience between earth’s superpowers crumbled and resulted in a cold war that lasted until 3 AE, when the first bombs fell and the world as it was known, ceased to exist…
+
+[/spoiler][/center]
+
+ 
+[center][u][b][size=24px]Biomes[/size][/b][/u][/center]
+[spoiler][size=18.06px][b]The Wastes[/b][/size] (forest, plains, extreme hills)
+
+The wastes are what makes up most of the world; bleak, barren zones inhabitated by only few mutated animals and hardy shrubs, but roamed by hordes of Orbital Industries robots, gangs of Bandits and packs of Lost.
+Almost all traces of human civilization are gone, only the abandoned H.I.V.E’s and scrap shack villages remain, silent reminders of the failure of the once great human society.
+The H.I.V.E’s were constructed by O.I. before the war as subterran networks, linking several cocoon bunkers together into a superstructure. They can be found nearly everywhere and still contain valuable resources and machinery like batteries or gears, for those who dare to explore them.
+The scrap shack settlements were created by those unlucky human scavengers who would eventually become the Lost. Denied access to the H.I.V.E’s, they would created makeshift huts on stilts above the ground as protective meassure. However the elevated position couldn’t protect them against the radiation which slowly turned the unlucky survivors into barley human beings, driven only by their instincts.
+
+
+[size=18.06px][b]Snow [/b][/size](tundra,taiga)
+
+The only regions left mostly unaltered in wake of the Event, the atomic holocaust and the nuclear winter were those uninviting areas that were extremly cold to begin with e.g. high mountains and tundras.
+When the nuclear fallout fell down in form of radiating snow flakes it wouldn’t penetrate the thick layers of snow, ice and frozen ground, leaving the groundwater and plant seeds, burried underneath the permafrost, unpoisoned.
+After the climate had stabilzed itself somewhat and nature returned to its usual cycle of snowmelt and snowfall, the fallout had already lost most of its hazard potential and the flora, foremost spruce trees, recovered.
+The fauna wasn’t so lucky however. Most animals suffered severe mutations or died by radiation, malnourishment or cold. Only the wolf-dog hybrids managed to adapt in large packs, hunting down the last living creatures in the harsh wilderness.
+
+
+[b][size=18.06px]Desert[/size][/b]
+
+The Event and the following environmental catastrophes caused lots of already arid areas to dry out completely.
+Orbital Industries used these areas as disposal zones for their clean-up operation after the Event, storing the sometimes radioactive debris of destroyed cities either deep underground or in barrels throughout the deserts.
+The irradiated moon dust that fell from the skies in large quantities was dropped on dumps, increasing the uninhabitable desert character of those areas even more.
+All that remains from this enormous effort are the drilled shafts, sometimes burried in the sand, sometimes flooded and the piles of green barrels scattered around, humming quietly with residual radiation.
+
+[b][size=18.06px]Antenna facility [/size][/b][size=16px](jungle)[/size]
+
+Before Orbital Industries’ moon landing in 8 BE, fission and fussion materials on earth were starting to dwindle. In an effort to keep their own growing industries supplied with cheap electricity, O.I. set out to find alternative engergies.
+They came to the only logical conclusion: Giant lightning absorbing tesla towers!
+Humongous Facilities covering whole tracts of land, featuring giant copper coils tipped with lightning rods were erected to attract, harvest, store and process lightnings. Each lightning strike would generate whopping 1,21 GW equaling the total energy output of a small plutonium fission rod, while the frequency of giant thunderstorms near the “Antennas” (as this was their official designation) was abnormally high.
+The ozone created by the lightnings would also be collected by small, expanding canisters attached to the rods and processed into N2O which in turn could be used in the creation of medicines and stimulants.
+The Antennas featured a to date revolutionary system for their construction. A group of AITBs (Antenna in the box) would be deployed in an open space. Either through natural sources like light and lightings, or (as it was more often the case) through artificial electricity input those engineering marvels would collect energy.
+When the critical energy level was met, they would spontanously convert the stored electricity into matter and “grow” within a few seconds. If a group of AITBs was put close together they would bond and generate a much bigger antenna. (The “In the box” system would be used after the Event by the Lost for the quick construction of their shacks, before they became the braindead monstrosities that they are today)
+Of course the discovery of huge Helium – 3 deposits on the moon rendered the expensive power plants obsolete, a fact that Mr. History was aware of and therefore “forgot” to mention until he had netted contracts for the construction of thousands of Antennas around the world.
+Once again he got away with it, by offering to upgrade the Antennas into weather control devices, radar scramblers, tesla anti-air and anti-ground weapons or all of those options combined…against a fee of course.
+After the Event, the upgraded antennas were used to counteract the drastic climate changes, but to no avail. During the war they were used as weapons, with devastating effects, but unable to stop the deployment of nuclear weaponary.
+After the period of bloodshed the former power plants began to decay, turning into giant expanses of rubble, home to a lot of stray cats leading their pitiful lifes underneath the still intact antennas.
+
+
+[b][size=18.06px]Swamp[/size][/b]
+
+Lots of areas hit by freak thunderstorms or tsunamis during the Event and the war never recovered. The terrain was eroded by the forces of nature and he deluges of water carrying nuclear fallout were unable to drain off fast enough before the fine mud clogged the ground. Vast expanses of flat, radioactive, stagnant water were the result, void of all life.
+Years afterwards when the water masses started to receed pioneer species like fungi and vines had returned to the small islands wihin the brackish morass but still tons of fish would die, victims to radiation trapped in the water.
+
+
+[size=18.06px][b]Mushroom[/b][/size]
+
+Only months before the Event, Orbital Industries started to cover some isolated islands with an experimental plating against nuclear radiation called Funga-plast.
+This carfulness was due to the the remarkable and a slightly uncontrolable properties of the new shielding material: It was self-reparing and replicating.
+Somewhat similar to fungal mycelium, it would absorb minerals and moisture from the ground and form a thick, ground covering, crystalline structure resembling metal sheets. While dense enough to be stepped on and able to absorb incoming radiation of various magnitudes, the Funga-plast was no where near as durable as any actual metal.
+
+O.I.’s foresight to limit their initial deployment of Funga-plast payed off, as side effects became known:
+Other spore based life forms, mostly mushrooms and fungi, settled within the nutrient rich confines of the Funga-plast, turning the radiation shield into a breeding ground. The massive amount of spores that lingerd in the air clogged the respiratory systems of any living being, and the cooling units of all robots, in the area.
+Another side effect was that the Funga-plast would fuse with the fruiting bodies of various fungi, using them as a medium to grow into absurd pseudo-metallic platforms resembling the former mushrooms
+For those reasons O.I. deemed the radiation shield project a failure and abandoned the almost lifeless islands.
+Unbeknownst to them, a strand of stonebacks would manage to withstand the constant spore exposure, albeit even more mutated and as a living host to mold and mushrooms.
+
+
+[size=18.06px][b]Moon[/b][/size]
+
+Once the beautiful and sole satellite of earth, the moon is a literal debris field in the orbit nowadays.
+After Orbital Industries’ mining operations and underground weapon testing started to hollow it out, the moon soon became nicknamed “The Belly”.
+During the Event an experimental moon portal sucked a fraction of earths atmoshpere into the Belly and set of a chain reaction of explosions. The moon broke appart.
+The atmosphere on the moon allows the transmission of soundwaves but isn’t thick enough to sustain life (expect the Moonshroom).
+After the scientists that survived the Event in the Belly were stranded (as O.I. was disbanded and the nuclear war broke out) their sanity and bodies were twisted by their hazardous environment. The lack of maintenance threw mining and security robots into a state of disarray, making the moon one of the most dangerous places to be. Even if you have a space suit on you to prevent suffocation.
+
+
+[size=18.06px][b]The End[/b][/size]
+
+[font=courier new,courier,monospace]From: █████████[/font]
+[font=courier new,courier,monospace]To: ████████████[/font]
+[font=courier new,courier,monospace]Subject: Disappearance of ███ ██████ and possible connection to Dr ██████████████████[/font]
+
+[font=courier new,courier,monospace]The theory I introduced in my report 10 hours ago seems to be accurate. Our agent “Creeper” has located the source of the mysterious portal signatures and found evidence of a massive illegal H.I.V.E close to ██████ between ██████ and █████████ on the coordinates ████████. According to his findings it’s financed by Croc.Co.[/font]
+[font=courier new,courier,monospace]Furthermore “Creeper” has witnessed the incoming of three armored transport trucks with ventilation slots, which hints towards living cargo.[/font]
+[font=courier new,courier,monospace]The number plates were ██████, ██████ and ██████ and turned out to be registered for a letterbox company in █████████.[/font]
+[font=courier new,courier,monospace]All this seems to proof that to Dr ██████████████████ is experimenting on humans.[/font]
+
+[font=courier new,courier,monospace]The Orbital Industries employee we took in two days ago disclosed that ███ ██████ had initiated a company-internal inquiry against to Dr ██████████████████ because he suspected him off unethical work methods. This led to to Dr ██████████████████’s departure.[/font]
+[font=courier new,courier,monospace]The entire affair was preceded by a dispute between ███ ██████ and to Dr ██████████████████ because of a denied experimental cyborg procedure to revive the latters wife.[/font]
+[font=courier new,courier,monospace]The employee went on and reported that during his work under to Dr ██████████████████ he has had access to experiment files that described a being similar to the unidentified assailants that destroyed the Orbital Industries office building in ████████, by mysteriously appearing inside and removing its foundation.[/font]
+
+[font=courier new,courier,monospace]The interrogation of to Dr ██████████████████’s cleaning woman was largely inconclusive, exept for the fact that to Dr ██████████████████ became reclusive after the death of his wife and developed a strange fixation on penguins.[/font]
+
+
+[font=courier new,courier,monospace]I know our resources are streched thin with the ongoing hostilites after that terrible Event, but I request backup in storming that illegal H.I.V.E. We can’t win a possible war with enemies lurking within our own borders, especially if they are setting up portals.[/font]
+
+[font=courier new,courier,monospace]Signed[/font]
+[font=courier new,courier,monospace]████████[/font]
+
+
+[quote] [font=comic sans ms,cursive]Ooooone[/font]
+
+[font=comic sans ms,cursive]The madness of the world forces me to write these lines. Everything is gone and no one is here to share my plight. HIS eyes burn in my mind, I haven’t found sleep for days. Is someone coming? One of those monsters?! No they only live down in that Notch-forsaken H.I.V.E! The lonleyness makes me hear things, I always hear the scuttling of those abominable roaches who almost ate my face![/font]
+[font=comic sans ms,cursive]They are coming for me! Both of them. An all I have is a tattered H.I.V.E shirt and my trousers. They won’t get them![/font]
+
+[font=comic sans ms,cursive]Too[/font]
+[font=comic sans ms,cursive]I ate a lizzard. Notch help me! What have I done?! I’m feeling sick, green bubbles everywhere. I hear HIM whispering in my dreams. At least HE’s gone silent while I’m awake. Time to puke![/font]
+
+[font=comic sans ms,cursive]March 16th 13 AE[/font]
+[font=comic sans ms,cursive]I had a lot of time to think and get my thoughts straight while I spent the last 3 days curled up in some kind of elevated shack, sick with food poisoning. I can’t believe I really wrote the last 2 entries, but it’s not suprising that I went mad after all I’ve been through. I still find myself giggling to myself and I have an uneasy sleep, I prefer to stay awake.[/font]
+[font=comic sans ms,cursive]I forgot my name but according to a message left to me, I was an agent called “Creeper”.[/font]
+[font=comic sans ms,cursive]I don’t recall much of my last mission but I know that it nearly drove me insane.[/font]
+[font=comic sans ms,cursive]I faced pure madness.[/font]
+[font=comic sans ms,cursive]I ran around a place out of this world, on dead bodies strapped in machines, tall horrific experiments mercilessly staring at me, vanishing into thin air only to reappear behind me.[/font]
+[font=comic sans ms,cursive]And HE was there.[/font]
+[font=comic sans ms,cursive]HIS name is unpronouncable, HIS white eyes staring into my very soul and HIS laughter haunting my dreams.[/font]
+[font=comic sans ms,cursive]I’m sorry, I let it get to me again. The “HE” I wrote about is a terrifying mixture of man, beast and machine that I don’t even want to think about. It chased me around that nightmare for aeons.[/font]
+[font=comic sans ms,cursive]Aeon, what a strange word. [/font]
+[font=comic sans ms,cursive]I’m getting side tracked again.[/font]
+[font=comic sans ms,cursive]I don’t know how, but I woke up next to what I know was the entrance back to this realm of madness. Giant roaches had eaten almost all of my clothes and were about to take a bit out of me![/font]
+[font=comic sans ms,cursive]I ran away, through the confusing installation which I remember to be an illegal H.I.V.E. I replaced my ragged clothes with what clothes I could find. Finally I found the exit, and next to it a table with a note for me. Some superior whom I don’t remember explained to me that a war was happening and that they couldn’t search for me anymore. There was a clock which broke down shortly thereafter which told me the year.[/font]
+[font=comic sans ms,cursive]I invented my own time system based on “The Event” when those crazed bunglers at O.I. blew up the moon. The moon … HE was responsible for that, I now know that. HE told me…[/font]
+[font=comic sans ms,cursive]I have to concentrate[/font]
+[font=comic sans ms,cursive]Like I wrote: I have a new time system and it’s the 16th of March 13 years after the Event. I don’t know how so much time could have passed after I entered that portal or whatever that demonic device was. I’ve ran from the H.I.V.E into the bleak wastes. There definetly had been a nuclear war.[/font]
+[font=comic sans ms,cursive]My P.I.M (Personal Inventory Manager), which is the last part of my equipment, informs me that my state of health is pretty good considering the circumstances. No radiation, no traces of remaining poison, no major wounds and after I ate that giant rat (or pig, what know I what it looked like before it mutated) I also feel sated and strong.[/font]
+[font=comic sans ms,cursive]Apart from that my situation is looking grim. I don’t remeber where I am or who I am. Perhaps I can regain my identity by returning to that H.I.V.E… Haha just kidding, I’m not that crazy. Or am I?[/font]
+[font=comic sans ms,cursive]Whatever, I need to find food, tools and shelter first, before I develop any suicidal plans.[/font]
+[font=comic sans ms,cursive]And I need to find more paper, I’m runni-[/font][/spoiler]
+
+ 
+[center][size=24px][u][b]Mobs[/b][/u][/size][/center]
+[spoiler][b][size=18.06px]The HallMonitor[/size][/b] (Spider)
+
+[img]http://i.imgur.com/lk00ss.jpg[/img]
+
+These machines were made by Orbital Industries as a means of keeping H.I.V.E. occupants under control and enforce curfew. Their design features voice boxes, and monitors for heads to maintain a friendly demeanor towards those that were doing nothing wrong. 
+After the disaster on the moon they started to malfunction as a result of lacking maintenance and outdated assignment parameters. With their voiceboxes spouting erratic messages, they attack everyone they identify as H.I.V.E inhabitant should they be encountered in low light environments.
+
+
+[b][size=18.06px]B-Class Hall Monitor [/size][/b](Cave spider)
+
+[size=16px]The B-Class Hall Monitor is the successor to the common A-Class Hall Monitor [/size]
+[size=16px]Development of the B-Class Hall Monitor began before the Event when numerous security officers complained about the A-Class Hall Monitor's bulky size which [/size]rendered them unable to fit in certain areas throughout the Cocoons. This lead to O.I.'s engineers reducing the size of the Hall Monitor which had the positive side effect of cutting production costs by 45%. To compensate for the less intimidating outer appearance 2 extras were installed in the B-Class.
+Firstly: An inbuilt Barbed Wire Reel in the abdomen part of the Hall Monitor which allows it to lay down barbed wire in corridors to act like a barricade/road block to slow down those disobeying curfew,
+Secondly: An injector on the Hall Monitor's head containing a poison similiar to "Corrosive poison". While extremely painfull the poison would never kill a curfew breaker on its own.
+Curfew breaking went down by 40% with the introduction of these new Hall Monitors.
+After the Event B-Class Hall Monitors still lurk in the Cocoons but are highly uncommon when compared to their more common predecessors and can be nasty surprise for any unwary scavenger.
+
+
+[size=18.06px][b]The Lost[/b][/size] (Zombie)
+
+[img]http://i.imgur.com/pVqZAs.jpg[/img]
+
+Originally people who were denied acces to the H.I.V.E.s or attempted to set forth to find pure land again, these creatures are the result of radiation induced mutations. Little is known about them, but they are considered to be the creators of the scrap-shack villages that litter the badlands .
+Desperate survivors might feed of their flesh, but will find out that it's heavily contaminated by radiation.
+
+
+[size=18.06px][b]Bandit[/b][/size] (Skeleton)
+
+[img]http://i.imgur.com/sAi2Is.jpg[/img]
+
+Hungry, sick, cold and fighting for survival. These men are just as afraid of you as you are afraid of them, except they have a Fire Arm and they are not afraid to use it.
+
+A huge majority of these bandits were once residents of the Cocoons (all the people who were denied access to the Cocoons became the Lost) and wear gear that’s strong enough to repel desert storms or other harsh climates.
+
+Due to the their fears they have become paranoid to the point where they will shoot first and ask questions later, although sometimes they can overcome their fears and band together in groups of 3 to 4 bandits.
+
+
+[size=18.06px][b]Hall Riders[/b][/size] (Spider jockey)
+
+These men were once residents of the Cocoons, however these bandits used to work in the maintenance department and are more technically inclined. By simply opening up a panel on a Hall Monitor's abdomen, cutting a few wires, a quick reprogram of the Hall Monitor's memory and hey presto! they have a metal steed. Unfortunately not many people have the knowledge of the Hall Monitor's circuitry.
+
+
+[size=18.06px][b]Huggatron[/b][/size] (Creeper)
+
+[img]http://i.imgur.com/ZRRFEs.jpg[/img]
+
+One of the now most disturbing remnants of Orbital Industries, they were originally made as children's babysitters, with the trademark "hugging arms." They were exceptionally popular, but when the Huggatron 2 was released, it was just the same thing with a music player and minor design differences, which caused the sales to plument.
+During the war the Huggatrons were repurposed as suicide bots, with their trademark arms and voicebox removed, filled with explosives and programmed to explode their nuclear core when close enough to their target.
+The mocked Huggatron 2 proved to be more resilent than its predecessor, and so they still roam the wastes, searching for enemies to hug.
+If you are lucky, a Bandit might fluke and destroy a Huggatron, but leave the music cartridge inside intact.
+
+
+[size=18.06px][b]Experiment[/b][/size] (Enderman)
+
+These twisted cyborgs are former humans who were sujected to a torturous upgrading process, supposedly by Hypophysos H. Crocopolous. The malformed product shows no signs of higher cognitive abillities apart from manical laughter.
+The first reported appearance of an experiment was in 1 BE when one teleported into an Orbital Industries office building and ripped appart ist foundation and column supports, killing two hundred office workers in the resulting collapse.
+The experiments are not necessarily aggresive but their killing instinct is triggered when eye contact is made. Contact with water is known to damage their mechanical implants, among them the Croc Co power core which replaces their spine and allows them to teleport short distances.
+
+
+[size=18.06px][b]Rust roach[/b][/size] (Silverfish)
+
+Scientist prophecied that roaches would outlive man and humanity is well on the way to prove them right. While the number of humans on earth declines the roaches find new ways to adapt for example by growing imensely large and eat metal. This life form is called “Rust roach” and lives inside the walls of some H.I.V.E.s
+
+
+[b][size=18.06px]Masked Outcast[/size][/b] (Witch)
+
+Once in a while one of the Masked submits to madness which isn’t suprising considering their daily lifes. Being clothed from head to foot almost 24 hours a day, struggeling for food and clean water while threatened by diseases, monsters and robots takes its toll on the psyche. The Masked are very tolerant towards extravagant behaviour, but their sympathy ends when you saw open your fellow Masked, harvest their brains and defecate into their eviscerated guts (which is considered improper behaviour in most cultures).
+This is where a gruesome tradition of the Masked comes into play…
+The offender is branded by getting a (damaged) traffic cone nailed to his head and shunned from the village.
+The cone serves as a symbol of shame and as a warning to others not to trust the Outcast. The nails are dipped into the village’s hazmat vats to cause slow and steady radiation poisoning and often the victim mutates into one of the Lost.
+Trying to pull the cone off the head means risking severe brain damage and massive loss of skin tissue.
+There are 7 different known cones that are used to brand outcasts, each of these cones has a meaning to. The perpetrator gets knocked out first with a Knock-o-Matic before having the cone nailed onto their head.
+Masked children also get coned, but since they are innocent and naive the cones are not nailed down, instead they have to wear on their head for few days/weeks so that others can ridicule them. 
+
+The “Seven sins cone code”:
+[list]
+[*][b]Green with black base:[/b] Green cones with black bases are used to mark villagers who do dangerous alchemy or who are quacks. Village doctors mostly get coned when they accidentally kill their patients with an overdose or the wrong medicine.
+[*][b]Green:[/b] Green is used to brand outcasts who are lazy. Why should the village bother feeding someone who doesn't contribute to society? Food and water are already scarce enough as it is.
+[*][b]Orange:[/b] Orange is for those who have been branded as thieves, stealing hydrazine is a big no-no among the Masked.
+[*][b]Orange with black base: [/b]This particular cone is used to brand Masked who are selfish and greedy. Hiding hydrazine in stashes and keeping it away from the others village folk is not a kind thing to do, sharing is caring after all.
+[*][b]Red with black base: [/b]These cones are used to mark Masked who have committed rape and or debauchery. Nobody likes a pedophile
+[*][b]Red:[/b] Red is used to brand outcasts that are violent or murderers, killing is never a good thing in Masked society.
+[*][b]Scrap metal:[/b] These crudely made cones out of scrap metal are nailed to Masked that display odd behavior. Most Masked fear that these particular types have started to mutate into the Lost so, just to be safe, they kick them out of the village.
+[/list]
+Outcasts have a tendency to retreat to pre-war field labs that were established in the swamps after the Event to study the effects of the radiating moon fallout. Thanks to their basic knowledge of chemistry to create the tuberculosis medicine they are always able to use the equipment left there to create potions for themselves. The side effects of those experiments include, among other things (like long tentacle like noses), a very fast body regeneration which makes Outcasts dangerous foes for an unprepared survivor.
+
+
+[b][size=18.06px]Mutant Scientist[/size][/b] (Zombie pigman)
+
+[img]http://i.imgur.com/qY7eBs.jpg[/img]
+
+Unlucky scientists left behind by Orbital Industries on the moon. Their prolonged exposure to hazardous waste and cosmic radiation has left them heavily mutated despite their hazmat suits.
+They communicate via short-range radio equipment.
+
+
+[size=18.06px][b]SecurAll[/b][/size] (Ghast)
+
+[img]http://i.imgur.com/OTdHas.jpg[/img]
+
+These flying machines were intended for hazardous waste recycling and security duty in the moon mining areas. Armed with concealed weaponry they'd give of a siren warning before opening fire on any potential intruder. The sirens have since malfunctioned, but the explosive charge launching mechanism remains intact.
+
+
+[size=18.06px][b]P.W.C[/b][/size] (Magma cube)
+
+[img]http://i.imgur.com/7zcu1.jpg[/img]
+
+The Portable Waste Collector (P.W.C) was deployed by Orbital Industries to speed up the clean-up the destroyed the Moon. The quad-springs underneath the P.W.C let it jump to an extensive height and prevent damage to vital parts from falling. This enables the P.W.C to jump out of the hazardous pools of waste with ease.
+After the O.I scientists had met their awful fate, the P.W.C's had no one to mantain them. Unaware that their storage units are filled to the brim, they seek to compress everything they deem waste, in an attempt to to collect it.
+
+-Freely adapted from Spiffycat, Orbital Industries engineer
+
+
+[size=18.06px][b]He 3-Excavator[/b][/size] (Blaze)
+
+The Helium-3 Isotope Excavator was one of Orbitals cash cows before the Event. They would harvest Helium out of the lunar soil and centrifugalize it in small containers lifted by them through rotating magnetic fields. The collected He-3 isotope would be compressed and stored in rods. Upon the explosion of the moon the Excavators were left on their own, collecting helium until they were full to the brim and subsequently start to go haywire. Ejecting superheated helium plasma at anything that walks by they can only be deactivated through destruction or a hand full of dust and snow which leads to the explosion of their already overfilled helium reservoirs.
+
+
+[b][size=18.06px]Construction Robot[/size][/b] (Wither skeleton)
+
+The binary load lifter and construction robot Mk-8 (LLC-8) was one of Mr. Historys early works. This useful work robot was both deployed all over earth for construction and lifting purposes and also were vital in the construction of the laboratories on the moon.
+After the Event the stranded scientist on the moon developed paranoia and equipped their work robots with voice boxes and rocket launchers to shoot down alien crafts which they believed were invisible and bent on invading the moon labs. Over time however the robots ran out of rockets since their demented masters staged too many maneuvers. Overall the armature project was a success since no alien craft remains to be seen on the moon... at least that's what they want you to believe!
+Ever since the LLC's roam the moon labs attacking anything they deem "alien" with their construction arms and whatever construction material they can get their manipulators on.
+The greatest danger they pose stems from leaking chemical ducts. The excreted chemicals posses corrosive and almost disease like properties, rapidly spreading throughout ones body should they ever come into contact with the skin..
+
+
+[b][size=18.06px]Grenade Operating Robot Terminator[/size][/b] (Wither)
+
+The GORT was created by O.I. for military use. The prototype was equipped with 2 grenade launchers using new chemical rocket-propelled grenades.
+The grenades that were used to hold the new chemical which was called “wither” turned out to be insufficently sealed. The wither leaked onto some of the GORT’s circuits, destroying its IFF system.
+In 5BE the GORT was transferred to the “Belly” for testing. Over a hundred scientists and investors watched as it was turned on, but instead of only attacking the training dummies the GORT shot at and murdered almost everyone in the room watching.
+In 4BE the project was officially shut down and all records of its existence were to be destroyed.
+Around 3BE there was a rumor flying in the OI research facilities that some of the drones on the moon had the data and were compatible to be used to make GORTs.
+
+[/spoiler]
+
+
+ 
+[center][size=24px][u][b]Critters[/b][/u][/size][/center]
+[spoiler]
+[b][size=18.06px]Dog[/size][/b]
+
+[img]http://i.imgur.com/kuJths.jpg[/img]
+
+
+Many residents of the various H.I.V.E's attempted to bring their household pets with them but were forced to set them free before taking residence in the cocoon.
+Left to their own devices, the now wild dogs formed packs, roamed the wastes and cross-bred with wild timber wolves. Over the years they would eventually breed into a single, strong, mixed breed.
+For reasons unknown they have developed minor telepathic abbilities, comunicating their thoughts both through barks and single words directly projected into the mind of anyone in close vicinity. Despite talking, they're not too bright and will knowingly jump into various hazards.
+Offering them food or entertaining toys (things that qualify for one or both of these categories might ocasionally be found within a bandits loot bag) allows you to recruit a loyal follower, to keep you company in this desolate world. Dog is after all, mans best friend.
+Dogs are quite eager to breed, and simply by feeding one a few slabs of raw meat, it will immediately begin searching for a doggy companion. Because of dogs’ incredible ability to adapt to a hostile environment, they seem to be completely immune to the poisoning effects of infected flesh, making the severed extremities of the Lost ideal as a breeding catalyst.
+
+
+[size=18.06px][b]Cat[/b][/size]
+
+Much has changed for the house cats since the Event. Stranded in the wastes, alone and without their walking can openers to care for them they retreated into the rubble of the antenna facilities where they’d find food and shelter. However radiation and pollution have taken their toll on the cats, leaving them riddled with mutations, wounds and most interestingly always with a third eye. The cats cautiousness has amplified over the years but so has their curiosity. If they are offered fish to which they don’t have access anymore they are likely to follow the donator in hope of more food, shelter, games and belly rubs.
+Cats come in a variety of breeds, and can be cross-bred to produce different results. Raw fish are what cats like best, so feeding them some will almost always perk them up into a better mood, where they will readily breed with any nearby felines of the same mindset.
+
+
+[size=18.06px][b]SKUL[/b][/size] (Snow golem)
+
+The SKUL waste collection robot was devised to collect waste of all kinds and compress it into neat little cubes. In the aftermath of the Event a design flaw made itself known as the SKUL units overencumbered themselves with moondust. Filled to the brim they would leave trails of dust whereever they they walked. Wastelanders with minimal knowledge in robotics can program them to eject balls of compressed dust on targets designated by its owner.
+
+
+[b][size=18.06px]Giant Rat[/size][/b] (Pig)
+
+[img]http://i.imgur.com/7TLwas.jpg[/img]
+
+Large rats, which make a good source of food, if you don't mind the smell, taste, potential diseases and the mystery cartilages growing within their muscles.
+It might be for the best if you don't think about what you're eating.
+Giant Rats, being the monstrous vermin that they are, will readily reproduce with one another in order to multiply their numbers and ensure their survival. This process can be greatly sped up by the use of fresh vegetables such as carrots, which are hard to come by after the Event and the subsequent war.
+Vegetables are also useful for taming these wild vermin: by carefully attaching a saddle to the back of one and luring it with a carrot tied to a makeshift fishing rod, one can create a surprisingly speedy steed out of these creatures.
+
+
+[b][size=18.06px]Stoneback[/size][/b] (Cow)
+
+[img]http://i.imgur.com/ypT6Fs.jpg[/img]
+
+The result of heavy breeding and mutation experiments on cows, their name is slang for [i]Bos primigenius lapis[/i]. Originally intended as tough livestock that could survive in extreme environments , the resulting creature had meat that was declared "unfit for consumption," as it tasted terrible.
+During the war it escaped into the wild, and high radiation led to the stonebacks loosing their fur but gaining hardened bone-like plates on it's back, and caused some to grow a third (or fourth) eye.
+Their hide can be used as armor, and is commonly fashioned into makeshift protective gear.
+Despite their wild habitat, Stonebacks stay true to their farming origins and will readily breed with one another. They have all been mentally conditioned to do as long as they have access to enough food and especially clean water.
+
+
+[size=18.06px][b]AWR[/b][/size] (Sheep)
+
+The AWR was an invention of the Lost. They were programmed to search the wastes and attract metal scrap and machine parts with an electromagnet and deliver them back. With the Lost no longer capable to remove the collected metal the AWRs continue to roam around until they are relieved of their burden which can be done using a simple pair of pliers.
+As a result of an interesting design flaw that involved a programming glitch with its rudimentary A.I., the AWR will short circuit and dump a sizable collection of metallic parts off of its exterior when exposed to purified water. This scrap heap actually synchronizes its electromagnetic signature with that of its parent, which results in the spontaneous construction of a new, smaller AWR. The new unit will then begin gathering resources in order to expand itself into a full-sized AWR. This process requires two different AWRs to produce the required amount of material for construction, and it was never fully taken advantage of by the Lost due to their descent into disease-ridden madness.
+
+
+[b][size=18.06px]Mobile Munitions Machine (3M)[/size][/b] (Chicken)
+
+These little guys were made carry extra ammunition and supplies for soldiers during the war. Orbital Industries purchased a great quantity for use on the H.I.V.E.'s. While the war is over now, these things (inexpensive and inefficient as they were) can still be found wandering about the wastes.
+They carry a small propulsion system which is instrumental in making your ranged weapons.
+It's not uncommon to find a lazy lizzard within the warm and relativley secure confines of the triple M.
+Each 3M unit is equipped with a self replication protocol as well as an array of small tools which allows as little as two 3M to create a so-called “4M” (Miniature Mobile Munitions Machine) within seconds. The 4M will at first be folded into a more compact and stable form until it has completed a long start-up check upon which it will unfold and be ready for service.
+Despite such an efficient self-replication method greatly reducing production costs of the 3M (explaining their low price and widespread distribution), it still needs standardized construction. An empty water purifier per “parent” 3M will do fine.
+
+
+[size=18.06px][b]The Masked[/b][/size]
+
+[img]http://i.cubeupload.com/qxJdA9.png[/img]
+
+The Masked are the what remains of the original Lost. Contrary to their unlucky bretheren they had access to rebreathers and gas mask which prevented the radioactive contamination of their respiratory systems. After the mutating effects of the radiation became apparent, the Masked left the Lost in order to save themselves.
+Forming small settlements with thick walls against the still present radiation the Masked concentrated on keeping their surroundings as clean as possible to escape their fellow survivors horrible fate. But even though they managed to set up water purifiers and hold onto the technology they had salvaged during their time as Lost they weren’t spared by illness and mutation.
+All Masked suffer from hydrocephaly which led to them never taking of their mask in pointless shame of their deformed heads. Furthermore, due to their weakened immune system, the Masked are plagued by a strand of tuberculosis. Source of the infections are the bovine stonebacks which the Masked heavyly rely on for food and clothing.
+In order to keep the illness in check the Masked require hydrazine for the synthesis of isoniazid and other chemical compounds for their medicines. Their main source for this chemical are rare finds of space debris, mainly satellites, who stock lots of hydrazine tanks as fuel. Another source of hydrazine is the trade with scavangers who salvage H.I.V.E emergency power generators.
+Due to their chronic illness the Masked evade any combat if possible and rely on robotic defenders and profitable trade agreements to ensure their safety. The Lost however seem to harbor a particular grudge against the Masked and regulary bond together to raid villages.
+Maybe somewhere deep down inside the Lost remember their shared past…
+
+
+[size=18.06px][b]Guardian[/b][/size] (Iron Golem)
+
+The Guardians are the Masked’s first and only line of defense against hostiles of all kind. These towering and resource-intensive robots are created in a group effort by the Masked and attack their enemies by throwing them high up into the air. The bigger the settlement, the higher the chances are for them to contain skilled robo-mechanics and therefore Guardians.
+
+
+[size=18.06px][b]SP Eye[/b][/size] (Bat)
+
+The SP eye hover camera is a robot designed to aid a H.I.V.E’s supervisor at enforcing the curfew in addition to the stationary O.I.V.E.Y system and the Hall Monitors. At day the cameras attatch themselves to the ceiling to recharge their batteries and act as stationary surveilance device, at night they swarm around in the H.I.V.E on the lookout for any rule breaker.
+
+
+[/spoiler]
+
+ 
+[center][size=24px][b][u]Weapons[/u][/b][/size][/center]
+
+[spoiler][b][size=18.06px]Scrap plank[/size][/b]
+
+This blunt club hardly deserves its designation as a weapon, as it can’t be used for much more than bludgeoning giant rats to death.
+
+
+[b][size=18.06px]Lead pipe[/size][/b]
+
+A makeshift weapon made out of a few random pipe sections. Hollow on the inside, painfully stable on the outside.
+
+
+[size=18.06px][b]Knock-o-mat[/b][/size][size=18.06px][b]ic Sledgehammer[/b][/size]
+
+The K.o. is a sledgehammer with a twist! An inbuilt flywheel conserves momentum when the hammer is moved around. Upon impact the force is unleashed in a second burst, allowing more efficent processing of work pieces and alleviated decapitation of foes.
+
+
+[size=18.06px][b]Cattle prod[/b][/size]
+
+For reasons unknown, some big wheel at Orbital decided that all cocoons should be supplied with a set of cattle prods. With no surviving cattle that would tolerate prodding, the prods can be used as a viable weapon when overcharged with uranium power rods.
+Just don’t touch the buzzing end.
+
+
+[b][size=18.06px]Analytic Probe[/size][/b]
+
+A multi-purpose tool employed by Orbital Industries scientist, mostly to study various factors of the moons environment. While not a weapon per se, it’s capable of giving of low current shocks, intended to determine a substances conductance.
+Single shocks are ignorable for any healthy human, but present a danger when recieved in large dosages. Packs of mutated scientist, bent on probing places where the sun doesn’t shine, should not be trifled with…
+
+
+[size=18.06px][b]Fire arm[/b][/size]
+
+While the name is quite general by our standards it speaks volumes in the wastes. It combines various elements of pre-war weapons technology into a single simplified form. It is used to fire projectiles which are tipped with a metal shard and tailed with a small fuel compartment which is ignited as it is fired. Between the tip and the fuel compartment is a hallow aluminum tube. The Fire Arm is the primary tool of bandits in the waste due to its convenience and surprising accuracy (if assembled correctly).
+
+[/spoiler]
+[center][size=24px][b][u]Armor[/u][/b][/size][/center]
+
+[spoiler][b][size=18.06px]Stoneback leather armor[/size][/b]
+
+A crude set of clothing made out of the durable hide of the stoneback, for those prefering survival over fashion.
+After hunting down and skinning a stoneback, the hide needs to be dryed (and if possible tanned) for some time before it can be processed any further.
+While the smell of the hapless previous skin-owner never quiet dissipates, the armor protects its wearer from minor injuries and harsh weather (excluding lightning).
+
+
+[size=18.06px][b]Metal armor[/b][/size]
+
+A set of mixed sports and work protectors, reinforced with iron plating.
+The chestpieces can be identified as part of a cocoons rugby equipment, the head part is a welder’s helmet.
+While the metal armor is a preferable alternative over the stoneback armor in direct combat, its ragtag design leaves you open to sneak attacks from behind and provides less protection against the elements.
+Swimming in this heavy armor is also not advised, should you ever come across a pool of clean water.
+
+
+[size=18.06px][b]Uranium powered armor Mk 2-35[/b][/size]
+
+One of Orbitals more recent developments before the Event, this set of heavy sealed armor provides the wearer with excellent protection against any source of damage*. However it’s incredibly hard to come by, let alone, reverse-engineer it.
+Another problem is the armors constant need for uranium power rods, otherwise the wearer will be stuck in an unmoving, 200 kg (440 lbs) heavy metal shell, which is quiet a nuisance in a desserted wasteland.
+The armor should only be worn when needed, otherwise you risk looking like a tool.
+Oh, and you might contract long-term, third degree radiation burns on the torso and head from the power rods.
+*The armor is not impervious to sources of concentrated radiation and doesn’t come with a rebreather. Go figure.
+
+
+[size=18.06px][b]Hazmat suit[/b][/size]
+
+In a world plagued by radiation, a protective suit is worth its weight in gold. If only gold was still worth anything.
+While not the ideal choice for Huggatron hunting, this golden apparel is trusted to protect in irradiated environments, on both the earth and the moon!
+Even today the personel stranded in the Belly still wear a white edition of these suits, keeping them safe from all-
+Wait… they did mutate, right? Maybe not such a bright idea to invest into a hazmat suit after all…
+
+
+[size=18.06px][b]Jane Mail’s armor[/b][/size]
+
+A plagiarism of Orbital Industries U-235 armor, created after the Event.
+Trying to make money of the peoples hysteria, a businesswoman named Jane Mail produced cheap, but impressive looking, replicas and sold them at horrendous prices.
+While durable, they offered hardly more physical protection than a hadware-store-grade hazmat suit.
+They are hardly ever seen around the wastes and no one ever tried to rebuilt one.[/spoiler]
+
+ 
+[center][size=24px][b][u]Tools[/u][/b][/size][/center]
+[center][spoiler][b][size=24px]Shovels[/size][/b] 
+[b][size=18.06px]Cricket bat[/size][/b]
+A simple bat made of cheap metal. Not exactly the best choice for digging, but better than nothing.
+
+[size=18.06px][b]Shovel[/b][/size]
+An oversized trowel, more fit for gardening purposes than excavations, but still more useful than the cricket bat.
+
+[b][size=18.06px]Foldig spade[/size][/b]
+A military grade entrenching tool with teslescopic stick. Light, durable, reliable and suitable as weapon of last resort.
+
+[size=18.06px][b]MOOSE[/b][/size]
+The “[b]Moo[/b]n [b]s[/b]oil [b]e[/b]ntrencher” is an nuclear powered digging tool, developed by Orbital during the preparations for the moon landing. When supplied with an uranium power rod the diamond-tipped pan of the shovel begins to vibrate at high frequencies, making loosenging the ground much easier.
+
+[b][size=18.06px]Rusty shovel[/size][/b]
+A hand-made tool back from the “good ol’ days” before corporations and their mass products took over. While they were crafted quite skillfully and mine any soil at speeds only matched by the MOOSE, their durability has severly deteriorated.
+
+
+
+
+
+
+
+[b][size=24px]Pickaxes[/size][/b] 
+[size=18.06px][b]Scrap bar[/b][/size]
+A bar, found in the scrap. Scrap bar.
+
+[size=18.06px][b]Metal bar[/b][/size]
+A makeshift crowbar made of … metal! Better at prying away loose metal plates from cocoon walls than the scrap bar, which is found in the scrap. Obviously.
+
+[b][size=18.06px]Hand drill[/size][/b]
+An manually operated drill and a scavangers best friend. It opens gearboxes, batteries, safes, wiring, nuclear power cores and uranium reactors.
+
+[size=18.06px][b]MAN-Drill[/b][/size]
+The [b]M[/b]icro [b]a[/b]ctivity [b]n[/b]ucleus (MAN) drill was developed for and deployed by Orbitals sub-contractor responsible for the construction of the H.I.V.Es.
+After the initial excavations for the first cocoons, they met layers of neigh impenetrable rock no one had anticipated.
+Unable to fullfill their contracts, the contractor went bankcrupt but was subsequently bought by Orbital Industries.
+O.I’s engineers developed a lightweight, diamond-tipped hand drill in record time. To catch up with schedule, Mr.History authorized the incorporation of costly uranium power rods into the design. This required radiators to be attached to both sides of the drill and makes handling the drill, without protective gear or external cooling, somewhat dangerous.
+Needless to say that the H.I.V.E. project became a success, unlike Orbitals other big project…
+
+[size=18.06px][b]Rusty hand drill[/b][/size]
+Just like the rusty shovel, this tool has seen better days. Fast when drilling through metal walls, it’ll break when trying to drill through anything more durable.[/spoiler][/center]
+
+
+
+
+
+[center][b][u][size=24px]Structures[/size][/u][/b][/center]
+[spoiler][b][size=18.06px]B-Class Hall Monitor Test Site [/size][/b]
+
+Before The Event there was no proper test site for B-Class Hall Monitors, so maze-like hallways were quickly constructed in selected H.I.V.E.s to test the new hall monitor prototypes.
+The O.I. engineers requested the builders to leave behind their scaffolding and toolboxes (which contain building materials, tools and the builder's lunch) in order to test the B-Class Hall Monitor's ability to fit in tight spaces. The halls also provided an opportunity to test out the B-Class Hall Monitors ability to lay down blockades of barbwire.
+After The Event these test sites still have B-Class Hall Monitors crawling around in them and are the best place for anyone wanting to encounter a B-Class Hall Monitor in action.
+
+
+[b][size=18.06px]Bandit Hideout [/size][/b][size=16px](Jungle Temple)[/size]
+
+Bandits, being humans themselves, needed some form of shelter in this hostile world. So using scrap metal found throughout the wastes, they built small hideouts scattered throughout the abandoned antenna facilities. Being the skeptical little buggers they are, they filled their new hideouts to the brim with traps and other nefarious devices to stop anyone from getting at their "hard earned" loot.
+Over time, the prevalent vines and other plant life in the antenna facilities have covered the hideouts, making them harder to spot, much to the delight of the bandits that built them
+
+
+[b][size=18.06px]Field lab[/size][/b]
+
+When one of the Masked has been coned and shunned from the village (the offense that he or she committed depends on the colour of the traffic cone) they tend to flee to the swamps and live a reclusive life inside one of these elveated labs over irridiated water. Thanks to the protective clothing the outcasts can tolerate the swamp's polluted landscape for a long time. The field labs were constructed after the Event to research the effects of the radiactive mon dust and its effects on the ecosystem. The original researchers have long since become part of the Lost, but their equipment, notes and chemistry books remained. This allows the Outcasts to practice a crude alchemy, and they get very excited when people trespass in their irradiated paradise because it finally gives them an opportunity to test out their latest deadly concoction on an unwilling test subject
+ 
+
+[size=18.06px][b]Drilling Rig[/b][/size] (Desert Temple)
+Before the Event, these desert structures housed massive drills that bored into the earth in search of oil or other precious materials. The drills have long been either destroyed or salvaged, leaving the rigs open for bandits and all other sorts of things to make them their homes, but bandits, being who they are, like to put nefarious traps around their goodies stored away in the old drilling shaft.
+
+
+[size=18.06px][b]Continuity of Government crate [/b][/size]
+[quote=Zombadger]
+Dear Journal
+
+Hunt was successful. While skinning stonebacks noticed lights under the pines in distance. Investigated after securing area. Those old Continuity of Government crates, funny. I wonder what sort of world those poor souls were hoping to wake up to after all those years. The C/H.U.N.K.S were still loading, so caved in the faceplate of the cryotube and shoveled a few cubits of dirt into the frozen fog. Sound of suffocating person always disturbs me. Left useless firewood, cheap survival gear. Took Hydrozine and Iodine pills. Canned fruit. Was out of there before the choking and dying stopped.
+
+Never stop being yourself. With warmest regards,
+Z[/spoiler]
+
+[center][url=http://www.minecraftforum.net/topic/1226892-last-days-lore/page__st__40#entry17750550][size=24px][b][u]Brewing & Potions[/u][/b][/size][/url][/center]
+
+[center][url=http://www.minecraftforum.net/topic/1226892-last-days-lore/page__st__40#entry17750550][size=24px][b][u]Terrain[/u][/b][/size][/url][/center]
+
+[center][url=http://www.minecraftforum.net/topic/1226892-last-days-lore/page__st__40#entry17750550][size=24px][b][u]Items[/u][/b][/size][/url][/center]
+[center][url=http://www.minecraftforum.net/topic/1226892-last-days-lore/page__st__40#entry17750550](Click me)[/url][/center]
+
+
+
+[center][url=http://www.minecraftforum.net/topic/1226892-last-days-lore/page__st__40#entry17750488][size=32px][b]Mod Lore[/b][/size][/url][/center]
+[center][url=http://www.minecraftforum.net/topic/1226892-last-days-lore/page__st__40#entry17750488](Click me)[/url][/center]
+
+
+[center][size=24px][b][u]Misc [/u][/b][/size][/center]
+[center][size=16px](WIP or lacking a category of its own)[/size][/center]
+
+[spoiler]
+[b][size=18.06px]Fire[/size][/b] (Blaze alternate, non canon until further notice)
+The Feromagnetic Ionization Recycling Entity (FIRE, name pending) was deployed on the moon by Orbital Industries to collect trash left behind by the scientist working there after the transport and material costs started exceeding the earnings. The robots basically consisted of nothing more than a couple of radiators and electromagnets wrapped around a micro-fission generator and encased themselves with rotating magnetic fields to attract and suspend metallic components in the non-existing air. A similar process was later used by the H.I.V.E. survivors to build the "sheep" (do those have a name ?) scrap bots. Although the latter were less efficent they proved to be much more reliable due to their lack of an in-build plasma cutter, which defect FIREs tended to use against unsuspecting moon travelers. The activation of this device is usally acompanied by a luminous effect, as the additional heat pouring from the bottom side of the robot burns up the ever present moon dust. The FIREs reliance on a working cooling unit is also one of its greatest weaknesses, a hand full of ash or dirt thrown into its radiators will shut it down in no time.
+
+
+[size=18.06px][b]Book and Quill[/b][/size] (no category)
+The BallpOInt pen is the latest masterpiece brought to you by the people who invented the ever popular Huggatron. What might at first look like a simple pen is set to revolutionize the world of text processing.
+The BallpOInt pen offers unparalleled feel through its patented riffle grip. Instead of conventional color applying techniques the BallpOInt pen uses a black light laser (also employed in Orbital Industries observation drones for water analization) to burn every word directly into any surface* ! It’s cutting-etch technology!
+The laser is powered by a small radioisotope thermoelectric generator that keeps going, and going, and going and would propably survive the collaps of civilization, even outside of an Orbital Industries cocoon**.
+The BallpOInt pen offers an intuitive usablity*** and can be upgraded with a voice activation device to provide protection against unallowed usage.
+There are already thousands of avid BallpOInt pen users. No matter if you get it for your job or as a present to your wife, the BallpOInt pen is always the right choice.
+Get yours now!
+
+Safety notice:
+Not suitable for children under 16. Do not point at humans. Do not look into the active end of the device. Do not open. Do not wash. May contain traces of nuts. Orbital Industries objects to any unbased rumors about BallpOInt pen induced madness or sudden disappearance. Mr. History and his chief of development Prof. Dr. Dr. med. Hypophysos H. Crocopolous use the pen and are well.
+
+*Surface must consist of at least 90% wood pulp
+**Reserve your spot today 555-HIVE
+***Attention: The device at the end of the pen is a fast spinning ventilator, the power button is located on its side.
+
+
+
+
+[b][size=18.06px]Enderchest:[/size][/b]
+[font=courier new,courier,monospace]From: John Doe (Engineering sub-section leader)[/font]
+
+
+[b][size=18.06px]Alternate netherwart (Martian Oil Collector) lore and alternate brewing lore:[/size][/b]
+(no category, slightly non canon)
+
+In 6 B.E. Orbital industries found out that people got dehydrated (who knew!), and decided to create their own brand of colas, not only quenching thirst, but also giving people's bodies a change. They called the main cola (health potion) Pris-cola, and centered their brands around that. They were named as follows:
+Pris-cola: Very basic cola, gives people a revived feeling. (Healing)
+Spee-cola: Gives you that boost you need to start the day! (swiftness)
+Regen-cola: Get the Pris-cola taste with the long-lasting effects! (regeneration)
+Fire-cola: Cool the heat. (fire resistance)
+Hit-cola: Pack a bigger punch. (strength)
+
+In 12 A.E. wastelanders found out how the original colas were made, and sought a way to create them. Using the power rods from the HE-3 excavators from the moon, they created what they call "Distilling Stands" used to concoct the colas.
+Originally, OI used a crystal harvested from extraterestrial, petrol like sludge as a catalyst for the reactions between the cola ingredients and the water they were put in.
+Those oil crystals could only be created in the low gravity environments, meaning the moon (though there are some rumors about a secret O.I. mars portal project, too), in small vacuum filled glass tubes. Since the moon got a faint atmosphere during the Event, the oil is sucked into the tube from the sludge and crystalizes.
+When mixed with water the water is then able to be mixed with ingredients without TOO violent a reaction, using the power from the HE-3 power rod to speed up the reaction, allowing people to make their own Pris-cola!
+-Freely adapted from Kietram, CEO of Pris-Cola Ltd (O.I. subsidary company)
+
+
+[size=18.06px][b]Alternate Enderdragon lore[/b][/size] (non canon)
+The Sch-ctelo'teph are eldritch abominations that inhabit small pocket dimensions outside of this universe.
+They draw in creatures from other universes to feed on the mental energy and bodies of these spirited away creatures. H.I.V.E survivors have seen animals get taken with creatures vanishing into thin air in the blink of an eye. This only seems to affect creatures without high brain function so most survivors and the Masked are unaffected.
+If for some stupid reason you decide to fight this creature then you're going to need to find an old scientific H.I.V.E. (stronghold) to find an old prototype inter-dimensional portal and activate it.
+-by Froman. Artist and scribe of the Wastes
+
+
+[size=18.06px][b]Alternate sapling lore[/b][/size] (non canon)
+Journal entry No.60
+Things are going great here (as good as things can go when every thing you eat is mutated and radiated) though this is probably my last entry this because type writer is about out of ink. My expedition team has been able to bring back a living tree sapling!!!! After finding it we promptly cloned it becuse this might be one of the last living tree saplings in the world! It is quite fragile as a sapling but we theorize that, after it has grown a bit, it will be able to survive ok....
+We constructed [color=rgb(105, 105, 105)]a small bio-dome over it as protection. The dome will detach from the sapling when grown and when supplied with enough power it will amplify the growth process.[/color]
+[color=rgb(105, 105, 105)]This may be the st[/color][color=rgb(169, 169, 169)]art of bringing earth back to its former glory!!!![/color]
+
+[color=rgb(211, 211, 211)]~Dr. Iron Fis[/color][color=rgb(211, 211, 211)]her, Section 99,[/color][color=rgb(211, 211, 211)] Blackwater Acad[/color]
+
+[size=18.06px][b]C/H.U.N.K.S. (Climate/Hazards Ultrasleep Nitrogen Kapsul System)[/b][/size]
+[size=16px][b]Alternate (Multiplayer) spawn lore [/b][/size]
+While the combined might of the planets countries may have succeeded in dismantling O.I, many countries weren't willing to take any risks.
+Recruiting volunteers for thier CoG programs, these countries sealed away hundreds of the worlds best and brightest in highly experimental C/H.U.N.K.S facilities designed to activate these highly trained and motivated individuals in the case of a complete Governmental failure of world-ending porportions. 
+Unfortunately, many of these hastily constructed and highly sophisticated (Read: 'Unreliable') machines failed to load properly on activation, leading to thier occupants waking up sealed in their tubes until the onboard oxygen supply inevitably failed. Or the liquid nitrogen that kept these people preseved would fail to drain as the revival process happened. Worse still, these sites became highly sought after AE on account of caches of goods left for the engineers and scientists and craftspersons in order for them to carry out thier solemn task of jump-starting society.
+If a volunteer beat the odds of mechanical failure, oftentimes they would wake up in a raided facility with nothing left in thier CoG crates but a handful of breadcrusts and a cheap hatchet.[/spoiler]
+
+[center]Copy/paste this banner into your signature to support Last Days and the Lore thread[/center]
+[center][url=http://www.minecraftforum.net/topic/1226892-last-days-lore/][img]http://i.cubeupload.com/VEvJz4.png[/img][/url][/center]
+
+
+[b]Change log[/b]
+[spoiler]
+[list]
+[*]May 14th 2012 AE: Thread created
+[*]May 15th 2012 AE: Mobs&Critters added, Changelog added
+[*]Later on May 15th 2012 AE: Stoneback added.
+[*]May 16th 2012 AE: General lore added
+[*]May 17th 2012 AE: P.W.C added, Stoneback,Wolf and Giant Rat revised. Herobrine removed.
+[*]May 18th 2012 AE: Weapons/armor/moon picture/3M added, Huggatron revised & spellcheck
+[*]May 22nd 2012 AE: Shovels, pickaxes and Analytic probe added.
+[*]May 28th 2012 AE: Misc category added. "Last Days" added to Lore&Setting
+[*]June 06th 2012 AE: Formatting changed, Mobs&Critters split, Brewing&Potions added, Enderchest added to Misc, Alternate Netherwart&Brewing lore added to Misc, Mod lore added, Huggatron slightly revised, Credits&Legal stuff added.
+[*]June 13th 2012 AE: Biomes added, "Last Days" removed from Lore&Setting, slight formatting changes
+[*]July 22nd 2012 AE: Terrain added
+[*]July 29th 2012 AE: Myst & Blackwater mod lore added, Credits updated
+[*]August 04th 2012 AE: Items added, Rules&Tips updated, Credits updated, Alternate Enderdragon lore added, The Masked added.
+[*]August 11th 2012 AE: Redpower mod lore added, The End lore added to biomes
+[*]August 12th 2012 AE: Terrain and items images modified
+[*]August 18th 2012 AE: Minor Mutant Scientist change, Industrialcraft mod lore added.
+[*]August 28th 2012 AE: Wolf renamed to Dog. Experiment, He 3-Excavator, AWR, Cats, Rust Roach and SKUL added, alternate sapling lore added.
+[*]September 1st 2012 AE: Forestery mod lore added. Topic split: Mod Lore moved to seperate post.
+[*]September 17th 2012 AE: Banner added
+[*]September 22nd 2012 AE: Construction Robot, Masked Outcast and Guardian added
+[*]September 27th 2012 AE: Masked Outcast revised
+[*]October 1st 2012 AE: B-Class Hall Monitor added
+[*]October 3rd 2012 AE: Sp Eye added, Rubber Tree Mod Lore added
+[*]October 12th 2012 AE: Structures category added, Outcast shack added, GORT added, Some IC lore added to the Mod lore
+[*]October 28th 2012 AE: Bandits revised, Hall Riders, Hall Monitor Test Site and Bandit Hideout added, Research log added to the mod lore
+[*]November 2nd 2012 AE: Breeding lore added. Topic split; Brewing, Items and Terrain moved to seperate post.
+[*]November 11th 2012 AE: Outcast and Fiel Lab lore updated
+[*]November 12th 2012 AE: Carrot Tonic and Phantom Philter added to the brewing lore
+[*]November 23rd 2012 AE: Varoius topics added to the mod lore, CoG crate added to the structures lore, C/HUNKS lore added to the misc lore
+[*]December 19th 2012 AE: TrainCraft lore added
+[*]January 14th 2013 AE: Dessert Temple and various IC2 lore added
+[/list]
+[/spoiler]
+
+
+[size=16px][b]Credits & Legal stuff[/b][/size]
+[spoiler]Last Days texture pack: [url=http://www.minecraftforum.net/user/98378-dereksmith/]dereksmith[/url]
+Thread managment, research, lore: [url=http://www.minecraftforum.net/user/1169688-comply-cat-ed/]Comply_cat_Ed[/url]
+Mod lore: [url=http://www.minecraftforum.net/user/9640-froman/]Froman[/url]
+
+This thread is intellectual property of the writers credited above and the Last Days texture pack owner.
+Do not distribute, especially not for monetary purposes.
+
+Thanks to all contributors and the inventor of toilet paper.[/spoiler]
