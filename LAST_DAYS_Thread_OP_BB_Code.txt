@@ -1,0 +1,196 @@
+[right]Supported by, and supporting, the Texture Artist's Union.[url=../../../topic/596421-texture-artists-union/][img]http://i.imgur.com/rF2IL.png[/img][/url][/right]
+
+[center][img]http://i.imgur.com/Q7i4DR4.png?1[/img][/center]
+
+[center][b]Welcome to the Minecraft Community revived, post apocalyptic resource pack in friendly Slightly HD 32x resolution![/b][/center]
+[center][color=#808000]________________________________________________________________________________________________[/color]
+
+[/center]
+[center][u][b]Origin[/b][/u][/center]
+[center][b]LAST DAYS[/b] was a texture pack started by Doku (creator of the ever popular RPG pack). Doku began this pack with the essential land-scape defining textures (Dirt, Grass, Stone, water, trees, etc) but did not have time to do much more before discontinuing the pack. The concept he had, and the work he finished was to good to let die. Using Doku's visual and conceptual foundation History continued the pack, expanded it, and improved it. After History's dissapearance the pack was continued and further improved by Croco 15 and HalphPrice. Now I have chosen to keep [b]LAST DAYS[/b] updated with the help of the community and continue to improve it, just like the other texture pack owners had before. [b][url=../../../topic/30422-dokus-last-days-texture-pack-wip-discontinued/]The Original Thread[/url] by Doku[/b] [b][url=../../../topic/126176-32x15-last-days-building-a-team/]The Second Thread[/url] by History[/b] [b][url=../../../topic/369814-please-lock-this-thread-it-has-been-moved/]The Third Thread[/url] by Croco[/b] 
+
+
+[media]http://www.youtube.com/embed/08I9Aew4_BI[/media]
+-Video by loook
+
+
+[media]http://www.youtube.com/embed/JXlq3ADh4h0[/media]
+-Video by FreestyleOMG
+
+
+
+
+[color=#808000]________________________________________________________________________________________________[/color][/center]
+
+[center][img]http://i.imgur.com/FF7Uh.png[/img][/center]
+
+[center][b] A Community made pack[/b][/center]
+[center]LastDays is made possible by contributions from the community.[b] Thank you.[/b][/center]
+
+[spoiler]
+[p][b]If you would like to help speed the development of the pack here is a few things we need help with.[/b][/p]
+[p]1.Updating the pack to the latest version of minecraft[/p]
+[p]2.Making sure all download links are up to date.-There are many community accounts for Lastdays please let us know if one of our links are out of date.[/p]
+[p]3.Writing Epic-Lore please discuss lore on the main forum more people frequent it and will have something to give.[/p]
+[p]4.Supporting mods we are looking to support mods 1.8 and on.[/p]
+[p]5. Spotting bugs there are many problems across Lastdays versions from a spelling error in the lang file to a misaligned gui[/p]
+
+[p]If you take interest just make a post and someone working on the same project will say hello.[/p]
+[p]I have listed resources and helpful forums down below.[/p]
+[p]1.[u][b][url=../../mapping-and-modding/resource-packs/1226351-1-8-7-1-7-10-and-earlier-update-4-23-mcpatcher-hd]The Mcpacher Fourm.[/url][/b][/u] -no one will respond to you.[/p]
+[p]2.[u][b][url=../../mapping-and-modding/resource-packs/resource-pack-discussion/1256366-the-all-inclusive-updated-guide-to-texturing]The All-Inclusive Guide to[/url][/b][/u][u][b][url=../../mapping-and-modding/resource-packs/resource-pack-discussion/1256366-the-all-inclusive-updated-guide-to-texturing] Texturing[/url][/b][/u] - This guy is a good help.[/p]
+[p]Feel free to help maintain the pack on the [url=https://github.com/sukar42/LAST_DAYS]Github.[/url][/p]
+[/spoiler]
+[center][b][u]Objective[/u][/b][/center]
+[left]The goal of LAST DAYS is to take doku's brilliant foundation work and bring it to its logical conclusion; a full scale, game changing, texture and sound overhaul which takes full advantage of the existing mechanics of minecraft and brings them into a post apocalyptic setting.[/left]
+[center][color=#808000]________________________________________________________________________________________________[/color]
+
+[/center]
+[center][img]http://i.imgur.com/InB3R.png[/img][/center]
+
+[center][b][u]Downloads[/u][/b][/center]
+
+[center][u][url=http://sukar42.github.io/LAST_DAYS/]Latest builds[/url][/u][/center]
+
+[center][u][url=https://github.com/sukar42/LAST_DAYS]Github[/url][/u][/center]
+
+[center][u][url=http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-texture-packs/1973167-0-8-1-last-days-pocket-edition[/url][/u][/center]
+
+[center][u][url=http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2509940-the-digital-nightmare-music-pack-minecrafts-post[/url][/u][/center]
+
+[spoiler]
+[p]This is a list of the many Downloads that we have trouble maintaining.[/p]
+[p][url=http://www.curse.com/texture-packs/minecraft/last-days-32x-hd-1-8-1ish-300-000-downloads]Curse[/url][/p]
+[p][url=http://www.planetminecraft.com/texture_pack/last-days-x32/]Planetminecraft [/url][/p]
+[p][url=http://resourcepack.net/last-days-resource-pack/]resourcepack.net[/url][/p]
+[p]please tell us if you want to make a new page on any site.-let us know if there is a page that is not listed.[/p]
+[/spoiler]
+
+[center][b][u]LAST DAYS comes with instructions on how to install it.[/u][/b]
+[u][url=http://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack]Install Instructions[/url].[/u][/center]
+[center][color=#808000]________________________________________________________________________________________________[/color][/center]
+
+[center][img]http://i.imgur.com/UQcNey0.png[/img][/center]
+
+[center][b]The Lore is so Epic it couldn't fit on this page.[/b][/center]
+[center]you can find it on the [u][url=http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/resource-pack-discussion/1256100-last-days-lore[/url][/u][/center]
+[center][color=#808000]________________________________________________________________________________________________[/color][/center]
+
+[center][img]http://i.imgur.com/lJbnc.png[/img][/center]
+
+[center][img]http://i.imgur.com/gw8KGx5.png[/img][/center]
+[center][img]http://i.imgur.com/o4btyK2.png[/img][/center]
+
+[spoiler]
+[center][img]http://i.imgur.com/HDnDUQx.png[/img]
+[img]http://i.imgur.com/nIIlDqc.png[/img]
+[img]http://i.imgur.com/GPQK9TB.png?1[/img]
+[img]http://i.imgur.com/rbv6f2H.png?1[/img]
+[img]http://i.imgur.com/sGfojG5.png?1[/img]
+[img]http://i.imgur.com/q9wpiR1.png?1[/img]
+[img]http://i.imgur.com/4V9o3FK.png?1[/img]
+[img]http://i.imgur.com/NhV9lyP.png?1[/img]
+[img]http://i.imgur.com/vMd1cWy.png?1[/img]
+[img]http://i.imgur.com/8wU4SDQ.png?1[/img]
+[img]http://i.imgur.com/i1AUY.jpg[/img]
+[img]http://i.imgur.com/wkeyG.jpg[/img]
+[img]http://i.imgur.com/Kb1ia.jpg[/img]
+[img]http://i.cubeupload.com/uPpAKd.png[/img]
+[img]http://i.cubeupload.com/lzEqnQ.png[/img]
+[img]http://i.imgur.com/9c8NBV0.jpg[/img]
+
+Videos
+
+[media]http://www.youtube.com/embed/KS_MIbbyGvo[/media][/center]
+[/spoiler]
+
+[p]
+
+[/p]
+[center][color=#808000]________________________________________________________________________________________________[/color][/center]
+
+[center][img]http://i.imgur.com/TRmN3.png[/img][/center]
+
+[center][size=medium]Previously ran by [i][b][size=medium]LordBrigadier [/size][/b][/i]but has since been abandoned and in need of a new manager![/size] [size=medium]
+[/size][/center]
+[center][color=#808000]________________________________________________________________________________________________[/color][/center]
+
+[center][img]http://i.imgur.com/9mCkg.png[/img][/center]
+
+[spoiler][b]Adventure maps: post yours to be added here [/b][url=../../../topic/1247060-last-days-tp-survival-map-hive-2044-post-apocalyptic-challenge|]HIVE 2044[/url] [url=../../../topic/1562120-hell-a-post-apocalyptic-adventure-map-challenge-300downloads/#entry19112046|]H.E.L.L.[/url] (Made by Comply_Cat_Ed!) [img]http://media-minecraftforum.cursecdn.com/avatars/0/80/635356669605396431.png[/img]
+[url=../../../topic/1762771-usg-ishimura/|]USG Ishimura[/url] [b]Reccomended Mods[/b] [url=http://calclavia.com/icbm/]ICBM[/url] [url=../../../topic/1154096-solar-apocalypse-mc125/|]Solar Apocalypse mod[/url] [url=../../../topic/501980-challenge-nuclear-apocalypse/|]Nuclear Apocalypse Challange[/url]
+
+[b]Signature Banners by Dereksmith[/b] [url=../../mapping-and-modding/resource-packs/1240079-last-days-300-000-downloads-return-of][img]http://i1130.photobucket.com/albums/m531/xemnasvii/gifninja.gif[/img][/url]
+
+[code][url=http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1240079-last-days-300-000-downloads-return-of][img]http://i1130.photobucket.com/albums/m531/xemnasvii/gifninja.gif[/img][/url][/code]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[b]Signature Banners by Croco[/b] [url=../../mapping-and-modding/resource-packs/1240079-last-days-300-000-downloads-return-of][img]http://i.imgur.com/jpPUk.png[/img][/url]
+
+[code]<a href="../../mapping-and-modding/resource-packs/1240079-last-days-300-000-downloads-return-of"><img src="http://i.imgur.com/jpPUk.png" alt=""></a>[/code]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[url=../../mapping-and-modding/resource-packs/1240079-last-days-300-000-downloads-return-of][img]http://img19.imageshack.us/img19/4415/lastdaysls.jpg[/img][/url]
+
+[code][url=http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1240079-last-days-300-000-downloads-return-of][img]http://img19.imageshack.us/img19/4415/lastdaysls.jpg[/img][/url][/code]
+
+
+
+
+
+
+[u][b]Special Thanks![/b][/u]
+[b]1. DOKU! for starting an amazing pack!
+2. History! for continuing Last Days!
+3. Halphprice for the soundpack and plenty of help+alts! Big thanks!
+4. luna_panshiel for providing a complete set of music to fit the theme.
+5. ScoutTactical for providing the concept and stylistic foundation for wool blocks.
+6. Dying Breed for adding battle towers mod support.
+7. Orange_Anything for making the sounds for the chicken, zombie, cow, and pig.
+8. Glimmar for allowing his wonderful item sprites to be used as placeholders.
+9. Nairagorn for providing Humans + support
+10. [u][i]Dereksmith[/i][/u] for making signature banners
+11. Sealystar for making a few awesome textures for the terrain.png
+12. Farty16 for providing the screen for night vision and making the website.
+13. [u]Samsamqwq[/u] for the end crystals and beams.
+14. [u]Levyathin[/u] for a signature.[/b]
+[b]15.[u]O[/u][/b][b][u]z0bradley0zo [/u]for the golem texture.[/b]
+[b]16.[i]Comply_Cat_Ed[/i][/b][u][b] for a H.I.V.E.ful of textures.[/b][/u]
+[b]17.[/b][u][b] Vultron for many things, support, and texturing things like the gui.[/b][/u]
+[u][b]18.[/b][/u][u][b]Every one who has made suggestions or donated![/b][/u]
+[b]19.A GRAND thanks to... [/b][b][i]Comply_cat_ed[/i][/b][u][b] for being awesome and helping me organize the updates. Frightmare44 for a bazillionkagillion textures. Froman for giving me eyegasms over and over again. Kingskyler1997 for being Comply_cat while he was absent.[/b][/u][/spoiler]
+[center][color=#808000]________________________________________________________________________________________________[/color]
+
+[/center]
+[left][size=large]License: [b][i]Redistribution of any of the textures included in this pack is [u]not allowed[/u]. You may edit it for [u]personal use[/u], but you may not redistribute. If you would like to redistribute anything, you must ask for [u]my permission[/u]. Failure to comply will result in and legal action and bad mojo.[/i][/b][/size][/left]
+[code]For the sketchy factor of a revival pack, we are going to assume that both a: The creator, History, has abandoned the project or has no time for it. And b: If history comes back he has full rights to this pack and can take back everything created to be used in the original.[/code]
