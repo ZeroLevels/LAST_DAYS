@@ -1,4 +1,4 @@
-
+﻿
 language.name=Last Days
 language.region=LD
 language.code=en_LD
@@ -529,7 +529,6 @@ resourcePack.incompatible.confirm.new=This resource pack was made for a newer ve
 
 sign.edit=:(Display.Set_Text):
 
-
 book.pageIndicator=[%1$s/%2$s]
 book.byAuthor=by %1$s
 book.signButton=:(Sign):
@@ -697,7 +696,7 @@ tile.fire.name=Fire
 tile.mobSpawner.name=Duplicator
 tile.stairsWood.name=Corrugated Metal Stairs
 tile.stairsWoodSpruce.name=Spruce Wood Stairs
-tile.stairsWoodBirch.name=Riveted Wood Stais
+tile.stairsWoodBirch.name=Riveted Wood Stairs
 tile.stairsWoodJungle.name=Checkered Metal Stairs
 tile.stairsWoodAcacia.name=Smooth Metal Stairs
 tile.stairsWoodDarkOak.name=Pitted Metal Stairs
@@ -1002,7 +1001,7 @@ item.minecartChest.name=Transportation Cart with Storage Crate
 item.minecartFurnace.name=Transportation Cart with Electric Oven
 item.minecartTnt.name=Transportation Cart with Tactical Nuclear Terminator
 item.minecartHopper.name=Transportation Cart with Hopper
-item.minecartCommandBlock.name=Transport Cart with Command Block
+item.minecartCommandBlock.name=Transportation Cart with Command Block
 item.egg.name=3M Construction Kit
 item.compass.name=Compass
 item.fishingRod.name=Improvised Fishing Rod
@@ -1143,7 +1142,7 @@ container.enchant.lapis.one=1 [Plutonium Container]
 container.enchant.lapis.many=%d [Plutonium Container]
 container.enchant.level.one=1 [Enhancement Level]
 container.enchant.level.many=%d [Enhancement Level]
-container.enchant.clue=:s . . .
+container.enchant.clue=%s. . .
 container.repair=§aRepair & Name
 container.repair.cost=:(Improvement.Cost: %1$d):
 container.repair.expensive=:(Cannot_Afford):
@@ -1560,9 +1559,9 @@ achievement.theEnd.desc=Locate the Realm of Madness
 achievement.theEnd2=This. Is. MADNESS!
 achievement.theEnd2.desc=Defeat the Mad Dragon
 achievement.spawnWither=The Beginning?
-achievement.spawnWither.desc=Spawn the Wither
+achievement.spawnWither.desc=Build a Construction Robot
 achievement.killWither=The Beginning.
-achievement.killWither.desc=Kill the Wither
+achievement.killWither.desc=Kill GROT
 achievement.fullBeacon=Beaconator
 achievement.fullBeacon.desc=Create a full beacon
 achievement.exploreAllBiomes=Adventuring Time
