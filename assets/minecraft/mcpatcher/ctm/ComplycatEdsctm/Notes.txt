@@ -1,0 +1,4 @@
+Texture variants do not occur for the following:
+	- Slabs on the upper-half of a block.
+	- Stacked slabs that form a full block.
+	- Stairs with their backs facing any direction but east.  Backs facing east allows variants.
