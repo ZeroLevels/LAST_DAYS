@@ -9,7 +9,7 @@ html,body {
 }
 
 p {
-	margin:1em 0;
+	margin:1em;
 }
 
 div#head {
@@ -22,13 +22,14 @@ h1,h2,h3,h4,h5,h6 {
 	font-weight:normal;
 	color:#eee;
 	line-height:1em;
+  margin: 1em;
 } h4,h5,h6 {
 	font-weight: bold;
 } h1 {
 	font-size:2.5em;
 } h2 {
 	font-size:2em;
-	border-bottom:1px solid gray;
+	/*border-bottom:1px solid gray;*/
 	padding-bottom: 5px;
 } h3 {
 	font-size:1.5em;
@@ -41,7 +42,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 img {
-max-width:100%;
+  max-width:100%;
 }
 
 
@@ -83,6 +84,26 @@ li.warning {
 } li.warning a:hover {
 	color:#7f7;
 }
+
+ul.outer>li {
+	color:#eee;
+  font-weight:bold;
+  margin: 1em 0;
+  }
+
+ul.inner>li {
+	color: #bbb;
+  font-weight:normal;
+  }
+
+.header {
+  text-decoration:underline;
+  }
+
+.line {
+  border-top: 1px solid gray;
+  width:100%;
+  }
 
 span.head {
 	margin-top:5px;
